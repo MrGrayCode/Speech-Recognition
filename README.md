@@ -17,7 +17,7 @@ Speech recognition using [speech recognition](https://pypi.python.org/pypi/Speec
 * To clone the repository:
 
  ```bash
- git clone https://github.com/Poirot1729/Speech-Recognition.gi
+ git clone https://github.com/Poirot1729/Speech-Recognition.git
  ```
 * Browse to Speech-Recognition directory :
 
