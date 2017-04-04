@@ -10,6 +10,6 @@ Speech recognition using [speech recognition](https://pypi.python.org/pypi/Speec
 ## Installing libraries
 
   ```bash
-  bash install-speech3.sh
+  bash install-speech.sh
   ```
 
