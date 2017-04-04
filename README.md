@@ -12,14 +12,22 @@ Speech recognition using [speech recognition](https://pypi.python.org/pypi/Speec
   ```bash
   bash install-speech.sh
   ```
-## Usage
 
-### Clone repo
-```bash
-git clone https://github.com/Poirot1729/Speech-Recognition.git
-```
-### Run
-```bash
-python3 speech.py
+### Usage
+* To clone the repository:
+
+ ```bash
+ git clone https://github.com/Poirot1729/Speech-Recognition.gi
+ ```
+* Browse to Speech-Recognition directory :
+
+ ```bash
+ cd Speech-Recognition
+ ```
+ 
+* Run the program :
+
+ ```bash
+ python3 speech.py
 ```
 
