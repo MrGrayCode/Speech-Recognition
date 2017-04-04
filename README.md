@@ -13,7 +13,7 @@ Speech recognition using [speech recognition](https://pypi.python.org/pypi/Speec
   bash install-speech.sh
   ```
 
-### Usage
+## Usage
 * To clone the repository:
 
  ```bash
