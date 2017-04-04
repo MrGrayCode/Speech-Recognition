@@ -14,11 +14,11 @@ Speech recognition using [speech recognition](https://pypi.python.org/pypi/Speec
   ```
 ## Usage
 
-# Clone repo
+### Clone repo
 ```bash
 git clone https://github.com/Poirot1729/Speech-Recognition.git
 ```
-# Run
+### Run
 ```bash
 python3 speech.py
 ```
